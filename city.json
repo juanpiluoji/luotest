@@ -1,48 +1,48 @@
 ﻿    {  
-    "name":"中国",  
+    "name":"China",  
     "children":  
     [  
         {   
-          "name":"浙江" ,   
+          "name":"Zhejiang" ,   
           "children":  
           [  
-                {"name":"宁波" },  
-                {"name":"杭州" },  
-                {"name":"温州" },  
-                {"name":"绍兴" }  
+                {"name":"Ningbo" },  
+                {"name":"Hangzhou" },  
+                {"name":"Wenzhou" },  
+                {"name":"Shaoxing" }  
           ]   
         },  
           
         {   
-            "name":"广西" ,   
+            "name":"Guangxi" ,   
             "children":  
             [  
-                {"name":"桂林"},  
-                {"name":"南宁"},  
-                {"name":"柳州"},  
-                {"name":"防城港"}  
+                {"name":"Guilin"},  
+                {"name":"Nanning"},  
+                {"name":"Liuzhou"},  
+                {"name":"Fangchenggang"}  
             ]   
         },  
           
         {   
-            "name":"黑龙江",  
+            "name":"Heilongjiang",  
             "children":  
             [  
-                {"name":"哈尔滨"},  
-                {"name":"齐齐哈尔"},  
-                {"name":"牡丹江"},  
-                {"name":"大庆"}  
+                {"name":"Haerbing"},  
+                {"name":"Qiqihaer"},  
+                {"name":"Mudanjiang"},  
+                {"name":"Daqing"}  
             ]   
         },  
           
         {   
-            "name":"新疆" ,   
+            "name":"Xinjiang" ,   
             "children":  
             [  
-                {"name":"乌鲁木齐"},  
-                {"name":"克拉玛依"},  
-                {"name":"吐鲁番"},  
-                {"name":"哈密"}  
+                {"name":"Wulumuqi"},  
+                {"name":"Kelamayi"},  
+                {"name":"Tulufan"},  
+                {"name":"Hami"}  
             ]  
         }  
     ]  
