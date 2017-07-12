@@ -1,0 +1,206 @@
+{
+  "data": {
+    "traceId": "5942001c0e5f12490797497628058788",
+    "root": {
+      "tr": {
+        "traceId": "5942001c0e5f12490797497628058788",
+        "spanId": "5942001c0e5f12490797497628058788",
+        "parentSpanId": "0",
+        "serviceName": "addCart",
+        "group": "gateway",
+        "hostName": "localhost",
+        "duration": 150,
+        "createTime": 1497497824000,
+        "responseCode": 200,
+        "customFileds": null
+      },
+      "children": [
+        {
+          "tr": {
+            "traceId": "5942001c0e5f12490797497628058788",
+            "spanId": "594200189edbf1987497497624650611",
+            "parentSpanId": "5942001c0e5f12490797497628058788",
+            "serviceName": "addCart_c",
+            "group": "cart_c",
+            "hostName": "192.168.2.1",
+            "duration": 100,
+            "createTime": 1497497924000,
+            "responseCode": 200,
+            "customFileds": null
+          },
+          "children": []
+        },
+        {
+          "tr": {
+            "traceId": "5942001c0e5f12490797497628058788",
+            "spanId": "594200189edbf1987497497624650612",
+            "parentSpanId": "5942001c0e5f12490797497628058788",
+            "serviceName": "addCart_c",
+            "group": "cart_c",
+            "hostName": "192.168.2.1",
+            "duration": 100,
+            "createTime": 1497497924000,
+            "responseCode": 200,
+            "customFileds": null
+          },
+          "children": []
+        },
+        {
+          "tr": {
+            "traceId": "5942001c0e5f12490797497628058788",
+            "spanId": "594200189edbf1987497497624650613",
+            "parentSpanId": "5942001c0e5f12490797497628058788",
+            "serviceName": "addCart_c",
+            "group": "cart_c",
+            "hostName": "192.168.2.1",
+            "duration": 100,
+            "createTime": 1497497924000,
+            "responseCode": 200,
+            "customFileds": null
+          },
+          "children": []
+        },
+        {
+          "tr": {
+            "traceId": "5942001c0e5f12490797497628058788",
+            "spanId": "594200189edbf1987497497624650614",
+            "parentSpanId": "5942001c0e5f12490797497628058788",
+            "serviceName": "addCart_c",
+            "group": "cart_c",
+            "hostName": "192.168.2.1",
+            "duration": 100,
+            "createTime": 1497497924000,
+            "responseCode": 200,
+            "customFileds": null
+          },
+          "children": []
+        },
+        {
+          "tr": {
+            "traceId": "5942001c0e5f12490797497628058788",
+            "spanId": "594200189edbf1987497497624650615",
+            "parentSpanId": "5942001c0e5f12490797497628058788",
+            "serviceName": "addCart_c",
+            "group": "cart_c",
+            "hostName": "192.168.2.1",
+            "duration": 100,
+            "createTime": 1497497924000,
+            "responseCode": 200,
+            "customFileds": null
+          },
+          "children": [
+            {
+              "tr": {
+                "traceId": "5942001c0e5f12490797497628058788",
+                "spanId": "594200189edbf1987497497624650616",
+                "parentSpanId": "594200189edbf1987497497624650615",
+                "serviceName": "addCart_c",
+                "group": "cart_c",
+                "hostName": "192.168.2.1",
+                "duration": 100,
+                "createTime": 1497497924000,
+                "responseCode": 200,
+                "customFileds": null
+              },
+              "children": [
+                {
+                  "tr": {
+                    "traceId": "5942001c0e5f12490797497628058788",
+                    "spanId": "594200189edbf1987497497624650617",
+                    "parentSpanId": "594200189edbf1987497497624650616",
+                    "serviceName": "addCart_c",
+                    "group": "cart_c",
+                    "hostName": "192.168.2.1",
+                    "duration": 100,
+                    "createTime": 1497497924000,
+                    "responseCode": 200,
+                    "customFileds": null
+                  },
+                  "children": []
+                },
+                {
+                  "tr": {
+                    "traceId": "5942001c0e5f12490797497628058788",
+                    "spanId": "594200189edbf1987497497624650618",
+                    "parentSpanId": "594200189edbf1987497497624650616",
+                    "serviceName": "addCart_c",
+                    "group": "cart_c",
+                    "hostName": "192.168.2.1",
+                    "duration": 100,
+                    "createTime": 1497497924000,
+                    "responseCode": 200,
+                    "customFileds": null
+                  },
+                  "children": []
+                },
+                {
+                  "tr": {
+                    "traceId": "5942001c0e5f12490797497628058788",
+                    "spanId": "594200189edbf1987497497624650619",
+                    "parentSpanId": "594200189edbf1987497497624650616",
+                    "serviceName": "addCart_c",
+                    "group": "cart_c",
+                    "hostName": "192.168.2.1",
+                    "duration": 100,
+                    "createTime": 1497497924000,
+                    "responseCode": 200,
+                    "customFileds": null
+                  },
+                  "children": [
+                    {
+                      "tr": {
+                        "traceId": "5942001c0e5f12490797497628058788",
+                        "spanId": "594200189edbf1987497497624650621",
+                        "parentSpanId": "594200189edbf1987497497624650619",
+                        "serviceName": "addCart_c",
+                        "group": "cart_c",
+                        "hostName": "192.168.2.1",
+                        "duration": 100,
+                        "createTime": 1497497924000,
+                        "responseCode": 200,
+                        "customFileds": null
+                      },
+                      "children": []
+                    },
+                    {
+                      "tr": {
+                        "traceId": "5942001c0e5f12490797497628058788",
+                        "spanId": "594200189edbf1987497497624650622",
+                        "parentSpanId": "594200189edbf1987497497624650619",
+                        "serviceName": "addCart_c",
+                        "group": "cart_c",
+                        "hostName": "192.168.2.1",
+                        "duration": 100,
+                        "createTime": 1497497924000,
+                        "responseCode": 200,
+                        "customFileds": null
+                      },
+                      "children": []
+                    },
+                    {
+                      "tr": {
+                        "traceId": "5942001c0e5f12490797497628058788",
+                        "spanId": "594200189edbf1987497497624650623",
+                        "parentSpanId": "594200189edbf1987497497624650619",
+                        "serviceName": "addCart_c",
+                        "group": "cart_c",
+                        "hostName": "192.168.2.1",
+                        "duration": 100,
+                        "createTime": 1497497924000,
+                        "responseCode": 200,
+                        "customFileds": null
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "code": 200,
+  "msg": "ok"
+}
