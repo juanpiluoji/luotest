@@ -1,5 +1,5 @@
 {		
-	[{ 
+	{ 
 		name: "PC" , 
 		sales: [	
 				{ year:2005, profit: 3000 },
@@ -28,5 +28,5 @@
 				{ year:2008, profit: 4000 },
 				{ year:2009, profit: 4900 }
 			] 
-	}]
+	}
 }
