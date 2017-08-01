@@ -1,23 +1,23 @@
 {	
 	"PC":[	
-				{ year:2005, profit: 3000 },
-				{ year:2006, profit: 1300 },
-				{ year:2007, profit: 3700 },
-				{ year:2008, profit: 4900 },
-				{ year:2009, profit: 700 }
+				{ "year":2005, "profit": 3000 },
+				{ "year":2006, "profit": 1300 },
+				{ "year":2007, "profit": 3700 },
+				{ "year":2008, "profit": 4900 },
+				{ "year":2009, "profit": 700 }
 		], 
 	"SmartPhone":[	
-				{ year:2005, profit: 2000 },
-				{ year:2006, profit: 4000 },
-				{ year:2007, profit: 1810 },
-				{ year:2008, profit: 6540 },
-				{ year:2009, profit: 2820 }
+				{ "year":2005, "profit": 2000 },
+				{ "year":2006, "profit": 4000 },
+				{ "year":2007, "profit": 1810 },
+				{ "year":2008, "profit": 6540 },
+				{ "year":2009, "profit": 2820 }
 		],
 	"Software":[	
-				{ year:2005, profit: 1100 },
-				{ year:2006, profit: 1700 },
-				{ year:2007, profit: 1680 },
-				{ year:2008, profit: 4000 },
-				{ year:2009, profit: 4900 }
+				{ "year":2005, "profit": 1100 },
+				{ "year":2006, "profit": 1700 },
+				{ "year":2007, "profit": 1680 },
+				{ "year":2008, "profit": 4000 },
+				{ "year":2009, "profit": 4900 }
 		]
 }
